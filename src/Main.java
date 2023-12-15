@@ -5,5 +5,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("New person");
+        System.out.println("What's up?");
     }
 }
