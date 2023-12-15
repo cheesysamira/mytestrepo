@@ -5,7 +5,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("partner 1 modified this line");
-        System.out.println("What's up?");
+        System.out.println("Mr.Miller cannot whistle the peppa pig theme song");
         System.out.println("HAHAHAHAHHAHA!");
     }
 }
