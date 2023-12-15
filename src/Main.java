@@ -6,6 +6,6 @@ public class Main {
         }
         System.out.println("New person");
         System.out.println("What's up?");
-        System.out.println("Nothing much!");
+        System.out.println("HAHAHAHAHHAHA!");
     }
 }
