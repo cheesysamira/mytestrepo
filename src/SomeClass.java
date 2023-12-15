@@ -3,4 +3,8 @@ public class SomeClass {
     public SomeClass(int num){
         this.num = num;
     }
+
+    public double average(double sum, int amount){
+        return sum/amount;
+    }
 }
